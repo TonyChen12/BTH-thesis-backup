@@ -1,0 +1,23 @@
+Dear Lawrence,
+I am now doing a literature review on PCS according to the plan. At this stage, I expect to get the following 3 contents：
+1. Which roles are affected by blockchain-based PCS?
+	a) 在文献Agent-based simulation of stakeholders relations_An approach to sustainable port terminal management 中，我能够找到对PCS中利益相关者的描述和分类。在我的模拟系统中，我期望包含以下几个对象：
+		i. 船舶公司
+		ii. 港口
+		iii. 内陆运输公司
+		iv. 顾客
+		v. 银行
+2. Which features (or operations) are affected by blockchain-based PCS?
+	a) 
+3. I need a known PCS model or functional requirements.
+
+But I am now having some difficulties with what features PCS has.
+1. 关于role, 我想知道在模拟PCS系统中，我设置这5种agent是否足够？
+2. 我没有接触或使用过一个PCS，在PCS功能这一部分，我需要文献支持为什么有这些功能。
+3. 同问题2，我也没有接触过一个PCS
+
+
+Best regards 
+Hangdong Chen
+Chinatony112@outlook.com
+

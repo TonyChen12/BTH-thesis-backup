@@ -1,0 +1,63 @@
+**shipment journey 		运送旅程
+
+booking received		收到预订
+booking confirmed		预订已确认
+
+shipping instructions received	收到运输说明
+bill of landing approved	批准的着陆单
+
+export payment cleared	出口付款清算
+bill of landing finalized	降落单定稿
+bill of landing released	出境单
+
+arrival notice created	到达通知已创建
+arrival notice issues		到达通知问题
+
+import payment cleared	进口付款已清除
+bill of landing collected	收货单
+cargo released		货物放行
+
+empty equipment assigned to shipment returned分配给发货的空设备退回
+payment cleared		付款已清除
+
+
+**Equipment journey 	设备旅行
+
+empty equipment/ depot allocated		空设备/仓库分配
+empty equipment picked up from depot		从仓库拿起的空设备
+
+Empty equipment arrived at stuffing location	空设备到达填充位置
+Equipment stuffing complete			设备填充完成
+full equipment departure from stuffing location	完整的设备从填充位置偏离
+
+VGM submitted				VGM提交
+
+full equipment gate in at export terminal		出口码头设备齐全的大门
+
+Full equipment loaded onto vessel		完整的设备装载到船上
+
+empty drop-off assigned			空下车
+	
+full equipment discharged from vessel		从船上卸下的完整设备
+gate out full equipment from import terminal	从进口码头出来全套设备
+
+full equipment at stripping location		剥皮位置的全套设备
+full equipment stripped at stripping lication	剥皮时剥去的完整设备
+empty equipment picked up from stripping location	从剥离地点捡起的空设备
+
+
+**vessel journey 		乘船旅行
+
+manifest submitted				清单提交
+manifest approved				清单批准
+Vessel export documentation cleared		船只出口文件已清除
+
+Vessel load/ discharge complete		船舶装卸完成
+Vessel operations complete			船只操作完成
+
+Vessel departed				船只离开
+
+Vessel import documentation cleared		船只进口文件已清除
+
+Vessel arrived				船只到达
+Vessel berthed				船只停泊
